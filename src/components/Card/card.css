@@ -1,0 +1,38 @@
+
+body {
+    background-color: #282D35;
+}
+
+.card {
+    width: 50%;
+    margin-left: 25%;
+    background-color: #010102;
+}
+
+.top {
+    color: white;
+    text-align: center;
+
+}
+
+.top > h1, .top > h6 {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    border-radius: 25%;
+}
+
+.button-2 {
+    color: white;
+    background-color: blue;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}

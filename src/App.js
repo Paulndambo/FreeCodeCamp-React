@@ -13,9 +13,10 @@ import Card from './components/Card/Card';
 
 
 //AirBnB Imports
-import Home from './components/Airbnb/Home';
+//import Home from './components/Airbnb/Home';
 
-
+//Meme Generator Imports
+import Home from './components/memeGenerator/Home';
 
 function App() {
   return (
